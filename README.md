@@ -1,2 +1,2 @@
 # CollectionViewCellDeleteDemo
-OC实现
+使用OC自定义实现类似tableViewCell侧滑删除效果
